@@ -3,3 +3,5 @@
 - Bike
 - Car
 - Plane tickets
+- Newspaper
+- Lunch
